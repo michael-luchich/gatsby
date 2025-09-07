@@ -1,2 +1,0 @@
-const IndexPage = () => {
-  return ('hello')};
